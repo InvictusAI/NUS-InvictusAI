@@ -1,2 +1,2 @@
-# NUS-InvictusAI
+# invictusai
 Meep Morp Zorb
